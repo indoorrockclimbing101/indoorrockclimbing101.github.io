@@ -58,6 +58,12 @@ p {
     text-align: left;
     text-decoration: none;
     line-height: 1.6;
+    width: 60%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto auto;
 }
 
 li {
@@ -65,10 +71,32 @@ li {
     text-align: left;
     text-decoration: none;
     line-height: 1.6;
+    width: 60%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto auto;
 }
 
 h1 {
     text-align: center;
+    width: 60%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto auto;
+}
+
+h3 {
+    text-align: left;
+    width: 60%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto auto;
 }
 
 .bold {
@@ -91,9 +119,4 @@ h1 {
 
 .indent {
     text-indent: 50px;
-}
-
-/*main {
-    width: 30vw;
-    margin: auto;
 }
