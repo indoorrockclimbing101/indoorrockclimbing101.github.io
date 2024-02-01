@@ -58,12 +58,6 @@ p {
     text-align: left;
     text-decoration: none;
     line-height: 1.6;
-    width: 60%;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto auto;
 }
 
 li {
@@ -71,33 +65,22 @@ li {
     text-align: left;
     text-decoration: none;
     line-height: 1.6;
-    width: 60%;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto auto;
 }
 
 h1 {
     text-align: center;
-    width: 60%;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto auto;
 }
 
-h3 {
-    text-align: left;
+
+/*
+    text-alight: center or left;
     width: 60%;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
     margin: auto auto;
-}
+*/
 
 .bold {
     font-weight: 650;
@@ -119,4 +102,10 @@ h3 {
 
 .indent {
     text-indent: 50px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
 }
