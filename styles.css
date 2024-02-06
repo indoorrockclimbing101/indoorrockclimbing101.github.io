@@ -67,23 +67,6 @@
     font-size: 50px;
 }
 
-/* Fix brand and navbar to screen
-.fixed1 {
-    position: fixed;
-    top: 0;
-    background-color: #333;
-    width: 100%;
-}
-
-.fixed2 {
-    position: fixed;
-    background-color: #333;
-    width: 100%;
-    top: 75px;
-}
-
-*/
-
 p {
     font-size: 22px;
     text-align: left;
@@ -104,7 +87,7 @@ h1 {
 
 
 /*
-    text-alight: center or left;
+    text-align: center or left;
     width: 60%;
     top: 0;
     bottom: 0;
