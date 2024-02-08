@@ -4,7 +4,7 @@ main {
     padding: 20px;
     min-height: 700px;
     height: 100%;
-    background-color: #85DCB8;
+    background-color: #C1C8E4;
 }
 
 p {
@@ -12,6 +12,7 @@ p {
     text-align: left;
     text-decoration: none;
     line-height: 1.6;
+    padding: 10px;
 }
 
 li {
@@ -40,17 +41,13 @@ h1 {
 }
 
 .bc-nav {
-    background-color: #41B3A3;
+    background-color: #5AB9EA;
 }
 
 .brand-color {
-    color: #E8A87C;
+    color: #5680E9;
     font-size: 30px;
     font-weight: 500;
-}
-
-.current {
-    background-color: #85DCB8;
 }
 
 /* Text styles */
@@ -66,7 +63,7 @@ h1 {
 .container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-gap: 30px;
+    grid-gap: 20px;
 }
 
 .disclaimer {
@@ -74,8 +71,6 @@ h1 {
     bottom: 0px;
     font-size: 10px;
 }
-
-
 
 /* original margins css
 
