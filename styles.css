@@ -80,8 +80,11 @@ h1 {
 }
 
 .r-image {
-    max-width: 400px !important;
+    max-width: 350px !important;
     width: 100% !important;
     height: auto !important;
-    justify-items: left !important;
+}
+
+.container-image {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 0fr)) !important;
 }
