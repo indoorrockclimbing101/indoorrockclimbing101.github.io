@@ -72,3 +72,16 @@ h1 {
     bottom: 0px;
     font-size: 10px;
 }
+
+/* Miscellaneous */
+
+.logo {
+    padding-bottom: 8px;
+}
+
+.r-image {
+    max-width: 400px !important;
+    width: 100% !important;
+    height: auto !important;
+    justify-items: left !important;
+}
