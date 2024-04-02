@@ -97,6 +97,18 @@ h1 {
     height: auto !important;
 }
 
+.r-vid-horizontal {
+    max-width: 900px !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+.r-vid-vertical {
+    max-width: 300px !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
 .container-image {
     grid-template-columns: repeat(auto-fit, minmax(300px, 0fr)) !important;
 }
