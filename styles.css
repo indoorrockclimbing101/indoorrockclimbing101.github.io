@@ -57,6 +57,10 @@ h1 {
     font-weight: 650;
 }
 
+.normal {
+    font-weight: normal;
+}
+
 .indent {
     text-indent: 50px;
 }
