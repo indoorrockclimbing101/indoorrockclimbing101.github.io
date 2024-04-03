@@ -5,7 +5,7 @@ main {
     min-height: 700px;
     height: 100%;
     width: 100%;
-    background-color: #C1C8E4;
+    background-color: #c1c8e4;
 }
 
 p {
@@ -38,17 +38,11 @@ h1 {
 }
 
 .purple {
-    color: #C38D9E;
+    font-weight: 350;
 }
 
 .bc-nav {
-    background-color: #5AB9EA;
-}
-
-.brand-color {
-    color: #5680E9;
-    font-size: 25px;
-    font-weight: 500;
+    background-color: #77b6b9;
 }
 
 /* Text styles */
